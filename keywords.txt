@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For Matrix
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+button KEYWORD1
+Buttons KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setPin 		KEYWORD2
+readValue	KEYWORD2
+setDebounce	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
